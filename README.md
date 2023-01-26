@@ -1,4 +1,4 @@
-# Pets-shop-html-layout
+# Pets shop
 
 Pets shop is example adaptive layout on flexbox
 
